@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.exe.config
+C:\Users\marce\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.exe
+C:\Users\marce\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.pdb
+C:\Users\marce\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.exe
+C:\Users\marce\source\repos\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.pdb
+D:\ori\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.exe.config
+D:\ori\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.exe
+D:\ori\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.pdb
+D:\ori\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.csprojAssemblyReference.cache
+D:\ori\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.csproj.CoreCompileInputs.cache
+D:\ori\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.exe
+D:\ori\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.pdb
